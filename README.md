@@ -1,5 +1,5 @@
 # Makaan Indian Property
-<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/makaan-com-logo-vector.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/makaan-com-logo-vector.png" height="450" width="1100">
 
 ## Background
 <p align=justify>At makaan.com, we understand that people everywhere are searching for a home to call their own. We want to make this search as joyful as finally finding 
@@ -12,10 +12,10 @@ media, book publishing and digital real estate services company, is the key inve
 investments.<p>
 
 ## Relational Database
-<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/relational-database.png" height="600" width="1100">
+<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/relational-database.png" height="500" width="1100">
 
 ## Dashboard
-<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard-report.png" height="600" width="1100">
+<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard-report.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/manishmathias/residential-property-price-indian-cities-dataset)
