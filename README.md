@@ -15,7 +15,7 @@ investments.<p>
 <img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/relational-database.png" height="500" width="1100">
 
 ## Dashboard
-<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard_report.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/manishmathias/residential-property-price-indian-cities-dataset)
