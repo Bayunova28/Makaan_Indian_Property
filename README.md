@@ -21,7 +21,7 @@ CALCULATE(DIVIDE(SUM(Sales[Price]), SUM(Sales[Price_per_unit_area]), 0))
 ```
 
 ## Dashboard
-<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/dashboard-report.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/manishmathias/residential-property-price-indian-cities-dataset)
