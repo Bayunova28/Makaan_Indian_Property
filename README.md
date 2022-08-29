@@ -14,8 +14,8 @@ investments.<p>
 ## Relational Database
 <img src="https://github.com/Bayunova28/Makaan_Indian_Property/blob/master/relational-database.png" height="500" width="1100">
 
-## Additional Measure
-```sql
+## Data Analysis Expressions (DAX) Calculation
+```
 Total Quantity = 
 CALCULATE(DIVIDE(SUM(Sales[Price]), SUM(Sales[Price_per_unit_area]), 0))
 ```
